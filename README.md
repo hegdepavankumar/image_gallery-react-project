@@ -1,6 +1,11 @@
 # image_gallery-react-project
 # Getting Started with Create React App
 
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/image_gallery-react-project?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/image_gallery-react-project?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/image_gallery-react-project?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/image_gallery-react-project.svg?cache=remove)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
