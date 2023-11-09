@@ -80,14 +80,14 @@ All Images reffered from:-
 
 Developer Information:-
 
-Linkedin:-[https://www.linkedin.com/in/hegdepavankumar]
+Linkedin:-[https://www.linkedin.com/in/imhegde]
 Email:-[puhegde01@gmail.com]
 
 ## Creator [🔝](#Image-Gallery-Using-React)
 
-(https://github.com/hegdepavankumar). This Project is Created by :-
+(https://github.com/imhegde). This Project is Created by :-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/hegdepavankumar) |
+| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
 
 ```
            Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
