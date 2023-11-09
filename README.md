@@ -1,9 +1,9 @@
 # image_gallery-react-project
 # Getting Started with Create React App
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/image_gallery-react-project?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/image_gallery-react-project?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/image_gallery-react-project?style=flat)
+![GitHub](https://img.shields.io/github/license/imhegde/image_gallery-react-project?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/imhegde/image_gallery-react-project?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/image_gallery-react-project?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/image_gallery-react-project.svg?cache=remove)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -80,14 +80,14 @@ All Images reffered from:-
 
 Developer Information:-
 
-Linkedin:-[https://www.linkedin.com/in/pavankumar-hegde%F0%9F%9F%A2-1007b8246/]
+Linkedin:-[https://www.linkedin.com/in/hegdepavankumar]
 Email:-[puhegde01@gmail.com]
 
 ## Creator [🔝](#Image-Gallery-Using-React)
 
 (https://github.com/hegdepavankumar). This Project is Created by :-
 
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/hegdepavankumar) |
 
 ```
            Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
