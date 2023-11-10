@@ -1,9 +1,9 @@
 # image_gallery-react-project
 # Getting Started with Create React App
 
-![GitHub](https://img.shields.io/github/license/imhegde/image_gallery-react-project?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/image_gallery-react-project?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/image_gallery-react-project?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/image_gallery-react-project?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/image_gallery-react-project?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/image_gallery-react-project?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/image_gallery-react-project.svg?cache=remove)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -40,11 +40,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single-build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point, you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
@@ -75,20 +75,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-All Images reffered from:-
+All Images referred from:-
 [https://unsplash.com/developers]
 
 Developer Information:-
 
-Linkedin:-[https://www.linkedin.com/in/imhegde]
+Linkedin:-[https://www.linkedin.com/in/hegdepavankumar]
 Email:-[puhegde01@gmail.com]
 
 ## Creator [🔝](#Image-Gallery-Using-React)
 
-(https://github.com/imhegde). This Project is Created by :-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 ```
-           Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
+           Hey Everyone Please give me a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forget to fork the repo....
           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
